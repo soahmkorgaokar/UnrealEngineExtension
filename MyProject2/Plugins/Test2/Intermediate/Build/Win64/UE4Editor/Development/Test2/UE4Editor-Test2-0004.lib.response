@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test2-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Module.Test2.cpp.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Default.rc2.res"
+/OUT:"Z:\IGMProfile\Desktop\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\UE4Editor-Test2-0004.lib"
+/INCLUDE:IMPLEMENT_MODULE_Test2

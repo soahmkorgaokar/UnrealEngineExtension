@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject2-7493.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2.cpp.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2GameModeBase.cpp.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2.init.gen.cpp.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2GameModeBase.gen.cpp.obj"
+"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Default.rc2.res"
+/OUT:"Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\UE4Editor-MyProject2-7493.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject2
