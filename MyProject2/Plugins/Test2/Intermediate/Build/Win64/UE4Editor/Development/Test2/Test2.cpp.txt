@@ -1,0 +1,12 @@
+D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Definitions.Test2.h
+D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2.h
+D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2Style.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2Commands.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+d:\epic\unreal\ue_4.24\engine\source\editor\leveleditor\public\ILevelEditor.h
+d:\epic\unreal\ue_4.24\engine\source\editor\leveleditor\public\ViewportTypeDefinition.h

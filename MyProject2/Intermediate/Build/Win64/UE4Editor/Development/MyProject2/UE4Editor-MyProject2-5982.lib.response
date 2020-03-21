@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject2-5982.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2.cpp.obj"
+"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2GameModeBase.cpp.obj"
+"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2.init.gen.cpp.obj"
+"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2GameModeBase.gen.cpp.obj"
+"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Default.rc2.res"
+/OUT:"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\UE4Editor-MyProject2-5982.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject2

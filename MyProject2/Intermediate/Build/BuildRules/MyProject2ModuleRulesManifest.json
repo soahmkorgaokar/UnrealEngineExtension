@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"Z:\\IGMProfile\\Desktop\\MyProject2\\Source\\MyProject2\\MyProject2.Build.cs",
-		"Z:\\IGMProfile\\Desktop\\MyProject2\\Plugins\\Test2\\Source\\Test2\\Test2.Build.cs",
-		"Z:\\IGMProfile\\Desktop\\MyProject2\\Plugins\\Test\\Source\\Test\\Test.Build.cs",
-		"Z:\\IGMProfile\\Desktop\\MyProject2\\Source\\MyProject2.Target.cs",
-		"Z:\\IGMProfile\\Desktop\\MyProject2\\Source\\MyProject2Editor.Target.cs"
+		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2\\MyProject2.Build.cs",
+		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Plugins\\Test2\\Source\\Test2\\Test2.Build.cs",
+		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Plugins\\Test\\Source\\Test\\Test.Build.cs",
+		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2.Target.cs",
+		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2Editor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
