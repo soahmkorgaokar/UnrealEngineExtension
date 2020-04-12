@@ -2,9 +2,9 @@
 	"RemapUnityFiles": 
 	{
 		"Module.Test2.cpp.obj": [
-			"Test2.cpp.obj",
 			"Test2Commands.cpp.obj",
-			"Test2Style.cpp.obj"
+			"Test2Style.cpp.obj",
+			"Test2.cpp.obj"
 		]
 	}
 }

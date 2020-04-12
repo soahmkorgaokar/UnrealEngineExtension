@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject2.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DFEEFA7E-3725-4357-A9B0-0EEE96D0F21C}</UniqueIdentifier>
+      <UniqueIdentifier>{CB990A52-B058-46C5-820A-6B65DB1B1DD3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject2.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CBAC040D-5AA9-4101-8C37-EB8B87A1C695}</UniqueIdentifier>
+      <UniqueIdentifier>{B8F080CF-21DE-4D8B-9613-EB20D554551B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,22 +24,22 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{2B809E3A-F217-4C93-94BC-45763E76404F}</UniqueIdentifier>
+      <UniqueIdentifier>{853424E2-FDA2-4CB3-B12B-0541AB971402}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\Test2">
-      <UniqueIdentifier>{D2C3190D-7697-44CF-A85B-391F06BB78C9}</UniqueIdentifier>
+      <UniqueIdentifier>{3DF97D26-CA4D-431C-B2F1-3AB97943514C}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\Test2\Source">
-      <UniqueIdentifier>{9AD9AC93-79DF-4E68-9C10-F125A1407E63}</UniqueIdentifier>
+      <UniqueIdentifier>{1DEA8CF2-9140-45F2-BE35-592B4AF24549}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\Test2\Source\Test2">
-      <UniqueIdentifier>{96ED6E2C-96C5-4B7B-AD11-2F85961F4544}</UniqueIdentifier>
+      <UniqueIdentifier>{1002A975-6D4B-48A3-A67A-0198608A461C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\Test2\Source\Test2\Test2.Build.cs">
       <Filter>Plugins\Test2\Source\Test2</Filter>
     </None>
     <Filter Include="Plugins\Test2\Source\Test2\Private">
-      <UniqueIdentifier>{40B80EEA-85EE-4100-B858-026181BD4BDA}</UniqueIdentifier>
+      <UniqueIdentifier>{D81364FE-864D-43DD-B50A-177856815BC9}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\Test2\Source\Test2\Private\Test2.cpp">
       <Filter>Plugins\Test2\Source\Test2\Private</Filter>
@@ -51,7 +51,7 @@
       <Filter>Plugins\Test2\Source\Test2\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\Test2\Source\Test2\Public">
-      <UniqueIdentifier>{EFD5A1D3-5325-4A56-B22A-4D12A0B8F0D7}</UniqueIdentifier>
+      <UniqueIdentifier>{35DCDF48-5204-434B-83B8-3E9900DC6299}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\Test2\Source\Test2\Public\Test2.h">
       <Filter>Plugins\Test2\Source\Test2\Public</Filter>
@@ -66,7 +66,7 @@
       <Filter>Plugins\Test2</Filter>
     </None>
     <Filter Include="Plugins\Test2\Resources">
-      <UniqueIdentifier>{56D365C2-5307-4D0A-A902-21C59A3D88D9}</UniqueIdentifier>
+      <UniqueIdentifier>{F66DEB06-6960-478C-B96A-5160870D4537}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\Test2\Resources\ButtonIcon_40x.png">
       <Filter>Plugins\Test2\Resources</Filter>
@@ -75,28 +75,40 @@
       <Filter>Plugins\Test2\Resources</Filter>
     </None>
     <Filter Include="Plugins\Test">
-      <UniqueIdentifier>{AF4E28DB-7679-4A0F-9015-B2EE3D44F6CA}</UniqueIdentifier>
+      <UniqueIdentifier>{201DB86D-4FE2-48AB-BD43-A1509BF44805}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\Test\Test.uplugin">
       <Filter>Plugins\Test</Filter>
     </None>
     <Filter Include="Plugins\Test\Resources">
-      <UniqueIdentifier>{DE9FDFC5-107F-4237-A56C-4F54EA76219B}</UniqueIdentifier>
+      <UniqueIdentifier>{96A94C57-09A2-4946-8E6D-381AC9213716}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\Test\Resources\Icon128.png">
       <Filter>Plugins\Test\Resources</Filter>
     </None>
+    <Filter Include="Plugins\UIContentTest">
+      <UniqueIdentifier>{6493CB9C-1193-441A-85F2-B5F60909538C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UIContentTest\UIContentTest.uplugin">
+      <Filter>Plugins\UIContentTest</Filter>
+    </None>
+    <Filter Include="Plugins\UIContentTest\Resources">
+      <UniqueIdentifier>{6C88F558-B25B-4872-9071-1E21DAD54FA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UIContentTest\Resources\Icon128.png">
+      <Filter>Plugins\UIContentTest\Resources</Filter>
+    </None>
     <Filter Include="Plugins\Test\Source">
-      <UniqueIdentifier>{53E89055-2D63-4DEC-B382-5A2D6BC0AFD5}</UniqueIdentifier>
+      <UniqueIdentifier>{EC69857E-9EAE-4E9E-8BFF-46830861EA25}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\Test\Source\Test">
-      <UniqueIdentifier>{77D4550B-F8EF-49C1-A0C2-DBC389C918F8}</UniqueIdentifier>
+      <UniqueIdentifier>{18825D64-2530-4267-B057-0C82BCAEB3FF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\Test\Source\Test\Test.Build.cs">
       <Filter>Plugins\Test\Source\Test</Filter>
     </None>
     <Filter Include="Plugins\Test\Source\Test\Private">
-      <UniqueIdentifier>{400F2599-6039-4444-939E-9361C99C64D6}</UniqueIdentifier>
+      <UniqueIdentifier>{765F040E-D45F-4E85-8E7C-89825F316D4C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\Test\Source\Test\Private\MyTest.cpp">
       <Filter>Plugins\Test\Source\Test\Private</Filter>
@@ -105,7 +117,7 @@
       <Filter>Plugins\Test\Source\Test\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\Test\Source\Test\Public">
-      <UniqueIdentifier>{747A99F4-5D1F-4830-A49E-66E833500A8D}</UniqueIdentifier>
+      <UniqueIdentifier>{A19A9B11-0A60-4FD7-A958-357550CBE420}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\Test\Source\Test\Public\MyTest.h">
       <Filter>Plugins\Test\Source\Test\Public</Filter>
@@ -114,7 +126,7 @@
       <Filter>Plugins\Test\Source\Test\Public</Filter>
     </ClInclude>
     <Filter Include="Source\MyProject2">
-      <UniqueIdentifier>{0567F9D4-C605-4DC2-8A40-EB48C2B01417}</UniqueIdentifier>
+      <UniqueIdentifier>{6057AADE-05BD-4075-AC9E-EB4CDD4901D1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject2\MyProject2.Build.cs">
       <Filter>Source\MyProject2</Filter>

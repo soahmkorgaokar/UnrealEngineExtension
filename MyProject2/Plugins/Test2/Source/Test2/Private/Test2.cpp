@@ -63,11 +63,13 @@ void FTest2Module::ShutdownModule()
 
 TSharedRef<SDockTab> FTest2Module::OnSpawnPluginTab(const FSpawnTabArgs& SpawnTabArgs)
 {
-	FText WidgetText = FText::Format(
-		LOCTEXT("WindowWidgetText", "Add code to {0} in {1} to override this window's contents"),
-		FText::FromString(TEXT("FTest2Module::OnSpawnPluginTab")),
-		FText::FromString(TEXT("Test2.cpp"))
-		);
+	//FText WidgetText = FText::Format(
+	//	LOCTEXT("WindowWidgetText", "Add code to {0} in {1} to override this window's contents"),
+	//	/*FText::FromString(TEXT("FTest2Module::OnSpawnPluginTab")),
+	//	FText::FromString(TEXT("Test2.cpp"))*/
+	//	FText::FromString(TEXT("Rub")),
+	//	FText::FromString(TEXT("Dub"))
+	//	);
 
 	return SNew(SDockTab)
 		.TabRole(ETabRole::NomadTab)
@@ -77,23 +79,18 @@ TSharedRef<SDockTab> FTest2Module::OnSpawnPluginTab(const FSpawnTabArgs& SpawnTa
 			SNew(SBox)
 			.HAlign(HAlign_Fill)
 			.VAlign(VAlign_Fill)
-			.Cursor(EMouseCursor::Crosshairs)
-		.Content()
 			[
-				//SNew(STextBlock)
-				//.Text(WidgetText)
 				SNew(SComboButton)
 				.HAlign(HAlign_Center)
 				.VAlign(VAlign_Center)
 				.ButtonContent()
 				[
 					SNew(STextBlock)
-					//.Text(LOCTEXT("BlockingVolumeMenu", "Create Blocking Volume"))
-					.Text(WidgetText)
+					.Text(LOCTEXT("BlickBlook", "Abble gobble gook"))
+					
 				]
+				
 			]
-
-		
 		];
 	
 }

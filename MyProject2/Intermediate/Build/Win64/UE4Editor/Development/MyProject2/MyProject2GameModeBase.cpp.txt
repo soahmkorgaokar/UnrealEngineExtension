@@ -1,7 +1,7 @@
-Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Definitions.MyProject2.h
-Z:\IGMProfile\Desktop\MyProject2\Source\MyProject2\MyProject2GameModeBase.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-Z:\IGMProfile\Desktop\MyProject2\Intermediate\Build\Win64\UE4Editor\Inc\MyProject2\MyProject2GameModeBase.generated.h
+D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Definitions.MyProject2.h
+d:\repounreal\unrealprojengines\unrealextension_characteractors\myproject2\source\myproject2\MyProject2GameModeBase.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic\Unreal\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Inc\MyProject2\MyProject2GameModeBase.generated.h
