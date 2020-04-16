@@ -1,2 +1,0 @@
-D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Definitions.MyProject2.h
-d:\repounreal\unrealprojengines\unrealextension_characteractors\myproject2\source\myproject2\MyProject2.h

@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2\\MyProject2.Build.cs",
-		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Plugins\\Test2\\Source\\Test2\\Test2.Build.cs",
-		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Plugins\\Test\\Source\\Test\\Test.Build.cs",
-		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2.Target.cs",
-		"D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2Editor.Target.cs"
+		"C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2\\MyProject2.Build.cs",
+		"C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Plugins\\Test2\\Source\\Test2\\Test2.Build.cs",
+		"C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Plugins\\Test\\Source\\Test\\Test.Build.cs",
+		"C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2.Target.cs",
+		"C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2Editor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }

@@ -31,7 +31,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Source\Test\Private
+/I C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Source\Test\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -229,8 +229,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\AudioMixerCore\Public
-/I D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Source
-/I D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Source\Test\Public
+/I C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Source
+/I C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Source\Test\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -254,18 +254,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Module.Test.cpp"
-/FI"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Definitions.Test.h"
-/Fo"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Module.Test.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Module.Test.cpp"
+/FI"C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Definitions.Test.h"
+/Fo"C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test\Intermediate\Build\Win64\UE4Editor\Development\Test\Module.Test.cpp.obj"
 /TP
 /GR-
 /W4

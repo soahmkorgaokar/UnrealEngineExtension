@@ -1,3 +1,0 @@
-D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Definitions.MyProject2.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
