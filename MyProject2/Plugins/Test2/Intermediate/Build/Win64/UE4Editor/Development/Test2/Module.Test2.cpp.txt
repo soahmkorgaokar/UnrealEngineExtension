@@ -1,20 +1,25 @@
-D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Definitions.Test2.h
-D:/RepoUnreal/UnrealProjEngines/UnrealExtension_CharacterActors/MyProject2/Plugins/Test2/Source/Test2/Private/Test2Commands.cpp
-D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2Commands.h
-d:\repounreal\unrealprojengines\unrealextension_characteractors\myproject2\plugins\test2\source\test2\public\Test2Style.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-D:/RepoUnreal/UnrealProjEngines/UnrealExtension_CharacterActors/MyProject2/Plugins/Test2/Source/Test2/Private/Test2Style.cpp
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
-d:\epic\unreal\ue_4.24\engine\source\runtime\projects\public\ModuleDescriptor.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
-D:\Epic\Unreal\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
-d:\epic\unreal\ue_4.24\engine\source\runtime\projects\public\CustomBuildSteps.h
-d:\epic\unreal\ue_4.24\engine\source\runtime\projects\public\LocalizationDescriptor.h
-d:\epic\unreal\ue_4.24\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Definitions.Test2.h
+C:/Users/ksoah/OneDrive/Desktop/UNREALEXT/UnrealExtension_CharacterActors/MyProject2/Plugins/Test2/Source/Test2/Private/Test2.cpp
+C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2.h
+C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2Style.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Users\ksoah\OneDrive\Desktop\UNREALEXT\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Source\Test2\Public\Test2Commands.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+C:/Users/ksoah/OneDrive/Desktop/UNREALEXT/UnrealExtension_CharacterActors/MyProject2/Plugins/Test2/Source/Test2/Private/Test2Commands.cpp
+C:/Users/ksoah/OneDrive/Desktop/UNREALEXT/UnrealExtension_CharacterActors/MyProject2/Plugins/Test2/Source/Test2/Private/Test2Style.cpp
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

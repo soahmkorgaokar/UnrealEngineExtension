@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "MyProject2",
-			"Path": "D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2.Target.cs",
+			"Path": "C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "MyProject2Editor",
-			"Path": "D:\\RepoUnreal\\UnrealProjEngines\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2Editor.Target.cs",
+			"Path": "C:\\Users\\ksoah\\OneDrive\\Desktop\\UNREALEXT\\UnrealExtension_CharacterActors\\MyProject2\\Source\\MyProject2Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
